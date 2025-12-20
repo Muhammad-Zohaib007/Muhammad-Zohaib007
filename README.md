@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Muhammad Zohaib
 
-  ** `Digital Craftsman (AI/ML Engineer)` **
+`Digital Craftsman (AI/ML Engineer)`
 
 I’m an AI/ML Engineer dedicated to solving real-world problems through the lens of simplicity. I believe the most powerful solutions aren't necessarily the most complex, but the ones that make life easier and more efficient. I build from the ground up, focusing on clean data, robust models, and intuitive implementation.
 
