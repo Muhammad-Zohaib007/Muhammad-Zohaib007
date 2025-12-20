@@ -1,12 +1,11 @@
-# [Your Name]
+# Muhammad Zohaib
 
-**Digital Craftsman (AI/ML Developer)**
+**Digital Craftsman (AI/ML Engineer)**
 
-I’m an AI/ML Developer dedicated to solving real-world problems through the lens of simplicity. I believe the most powerful solutions aren't necessarily the most complex, but the ones that make life easier and more efficient. I build from the ground up, focusing on clean data, robust models, and intuitive implementation.
+I’m an AI/ML Engineer dedicated to solving real-world problems through the lens of simplicity. I believe the most powerful solutions aren't necessarily the most complex, but the ones that make life easier and more efficient. I build from the ground up, focusing on clean data, robust models, and intuitive implementation.
 
-[![LinkedIn](https://img.shields.io/badge/FOLLOW-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/KAGGLE-RANK-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/FOLLOW-TWITTER-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/FOLLOW-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-RANK-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/muhammadzohaib0)
 
 ---
 
@@ -41,8 +40,8 @@ I’m an AI/ML Developer dedicated to solving real-world problems through the le
 ### 🚀 Featured Projects & Links
 
 * 🌐 **[Check out my Portfolio Website](https://yourportfoliowebsite.com)** - A deep dive into my latest AI deployments.
-* 📺 **[YouTube Channel](https://youtube.com/@YOUR_USERNAME)** - Where I break down complex ML concepts.
-* 📸 **[Instagram](https://instagram.com/YOUR_USERNAME)** - Behind the scenes of my dev journey.
+* 📺 **[YouTube Channel](https://youtube.com/@YOUR_USERNAME)** - Where I break down complex AI/ML concepts/tools.
+* 📸 **[Instagram](https://www.instagram.com/m__.zohaib?igsh=cTlrODl2cmk1djY3)**
 
 ---
 
@@ -54,4 +53,4 @@ I’m an AI/ML Developer dedicated to solving real-world problems through the le
 </p>
 
 **Let's build something simple yet powerful.**
-[Follow me on LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+[Follow me on LinkedIn](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
