@@ -63,11 +63,7 @@ I’m an AI/ML Engineer dedicated to solving real-world problems through the len
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Languages" />
-</p>
+![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=radical)
 
 **Let's build something simple yet powerful.**
 [Follow me on LinkedIn](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
