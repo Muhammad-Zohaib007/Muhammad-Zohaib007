@@ -63,7 +63,7 @@ I’m an AI/ML Engineer dedicated to solving real-world problems through the len
 ---
 
 ### 📈 GitHub Stats
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=radical)
+![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=highcontrast)
 
 **Let's build something simple yet powerful.**
 [Follow me on LinkedIn](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
