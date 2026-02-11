@@ -56,7 +56,7 @@ I’m an AI/ML Engineer dedicated to solving real-world problems through the len
 
 ### 🚀 Featured Projects & Links
 
-* 🌐 **[Check out my Portfolio Website](https://yourportfoliowebsite.com)** - A deep dive into my latest AI deployments.
+* 🌐 **[Check out my Portfolio Website](https://www.muhammadzohaib.dev/)** - A deep dive into my latest AI deployments.
 * 📺 **[YouTube Channel](https://youtube.com/@YOUR_USERNAME)** - Where I break down complex AI/ML concepts/tools.
 * 📸 **[Instagram](https://www.instagram.com/m__.zohaib?igsh=cTlrODl2cmk1djY3)** - Follow my development journey.
 
