@@ -4,7 +4,7 @@
 
 I’m an AI/ML Engineer dedicated to solving real-world problems through the lens of simplicity. I believe the most powerful solutions aren't necessarily the most complex, but the ones that make life easier and more efficient. I build from the ground up, focusing on clean data, robust models, and intuitive implementation.
 
-[![LinkedIn](https://img.shields.io/badge/FOLLOW-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
+[![LinkedIn](https://img.shields.io/badge/FOLLOW-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-zohaib40/)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-RANK-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/muhammadzohaib0)
 
 ---
