@@ -63,7 +63,6 @@ I’m an AI/ML Engineer dedicated to solving real-world problems through the len
 ---
 
 ### 📈 GitHub Analytics
-![Zohaib's GitHub stats]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Zohaib's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib007&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="41.5%" />
