@@ -62,8 +62,20 @@ I’m an AI/ML Engineer dedicated to solving real-world problems through the len
 
 ---
 
-### 📈 GitHub Stats
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=highcontrast)
+### 📈 GitHub Analytics
+![Zohaib's GitHub stats]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zohaib007&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Zohaib's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zohaib007&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="41.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zohaib007&theme=vision-friendly-dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zohaib007&theme=react-dark&bg_color=0D1117&hide_border=true&color=58a6ff" alt="Activity Graph" width="90%" />
+</p>
 
 **Let's build something simple yet powerful.**
 [Follow me on LinkedIn](https://www.linkedin.com/in/muhammad-zohaib-981433321/)
